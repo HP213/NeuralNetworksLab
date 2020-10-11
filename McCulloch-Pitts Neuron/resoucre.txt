@@ -1,0 +1,3 @@
+https://medium.com/hackernoon/mcculloch-pitts-neuron-deep-learning-building-blocks-7928f4e0504d
+
+https://towardsdatascience.com/implement-your-first-artificial-neuron-from-scratch-dc01b9505c18
