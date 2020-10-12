@@ -1,0 +1,5 @@
+https://medium.com/datathings/neural-networks-and-backpropagation-explained-in-a-simple-way-f540a3611f5e
+
+https://medium.com/datathings/a-neural-network-fully-coded-in-numpy-and-tensorflow-cc275c2b14dd
+
+https://github.com/assaad/neuralnet_example/blob/master/NN_in_pure_numpy.ipynb
