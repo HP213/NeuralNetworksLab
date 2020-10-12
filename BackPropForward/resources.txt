@@ -1,0 +1,3 @@
+https://towardsdatascience.com/back-propagation-simplified-218430e21ad0
+
+https://github.com/ksivaman/simple-net
